@@ -29,6 +29,8 @@ I am currently a third-year student pursuing a degree in Software Engineering at
   An Android application designed to help you take control of your finances. Track your income and expenses effortlessly, and gain valuable insights through detailed analytics. Stay informed about your spending habits and make smarter financial decisions with ease. Built with XML Layouts, StateFlow and MVVM pattern.
 - **[Movies App](https://github.com/RobotBot5/android_movies_app)**  
   My first nearly full-fledged Android application. Using the KinoPoisk API, it allows you to explore the top movies, view their descriptions, watch trailers, and add them to your favorites, which are saved in the local database. The app utilizes XML Layout, LiveData, MVVM architecture, Retrofit for network requests, and Room for local data storage.
+- **[VK Client](https://github.com/RobotBot5/VkNewsClient)**
+  VK Client is a learning project designed to explore **Jetpack Compose** and **Jetpack Navigation**. The application integrates with **VK API** to fetch and display user data, posts, and other content.
 
 ## Contact Me
 - [Telegram @RobotBot5](https://t.me/robotbot5)
