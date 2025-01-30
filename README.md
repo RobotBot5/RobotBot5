@@ -31,6 +31,8 @@ I am currently a third-year student pursuing a degree in Software Engineering at
   My first nearly full-fledged Android application. Using the KinoPoisk API, it allows you to explore the top movies, view their descriptions, watch trailers, and add them to your favorites, which are saved in the local database. The app utilizes XML Layout, LiveData, MVVM architecture, Retrofit for network requests, and Room for local data storage.
 - **[VK Client](https://github.com/RobotBot5/VkNewsClient)**
   VK Client is a learning project designed to explore **Jetpack Compose** and **Jetpack Navigation**. The application integrates with **VK API** to fetch and display user data, posts, and other content.
+- **[Stock Chart](https://github.com/RobotBot5/Terminal)**
+  Stock Chart is a practice project focused on **Canvas in Jetpack Compose**. The app features a **custom Composable** that dynamically renders a **candlestick chart** based on fetched stock data. Users can **zoom and scroll** through the chart for better visualization.
 
 ## Contact Me
 - [Telegram @RobotBot5](https://t.me/robotbot5)
