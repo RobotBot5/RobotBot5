@@ -29,11 +29,11 @@ I am currently a third-year student pursuing a degree in Software Engineering at
   An Android application designed to help you take control of your finances. Track your income and expenses effortlessly, and gain valuable insights through detailed analytics. Stay informed about your spending habits and make smarter financial decisions with ease. Built with XML Layouts, StateFlow and MVVM pattern.
 - **[Movies App](https://github.com/RobotBot5/android_movies_app)**  
   My first nearly full-fledged Android application. Using the KinoPoisk API, it allows you to explore the top movies, view their descriptions, watch trailers, and add them to your favorites, which are saved in the local database. The app utilizes XML Layout, LiveData, MVVM architecture, Retrofit for network requests, and Room for local data storage.
-- **[VK Client](https://github.com/RobotBot5/VkNewsClient)**
+- **[VK Client](https://github.com/RobotBot5/VkNewsClient)**  
   VK Client is a learning project designed to explore **Jetpack Compose** and **Jetpack Navigation**. The application integrates with **VK API** to fetch and display user data, posts, and other content.
-- **[Stock Chart](https://github.com/RobotBot5/Terminal)**
+- **[Stock Chart](https://github.com/RobotBot5/Terminal)**  
   Stock Chart is a practice project focused on **Canvas in Jetpack Compose**. The app features a **custom Composable** that dynamically renders a **candlestick chart** based on fetched stock data. Users can **zoom and scroll** through the chart for better visualization.
-- **[Weather Forecast App](https://github.com/RobotBot5/WeatherApp)**
+- **[Weather Forecast App](https://github.com/RobotBot5/WeatherApp)**  
   A weather forecast application built with **Jetpack Compose**, utilizing **MVI architecture** with [MviKotlin](https://github.com/arkivanov/MVIKotlin) and **component-based navigation** with [Decompose](https://github.com/arkivanov/Decompose).
 
 ## Contact Me
