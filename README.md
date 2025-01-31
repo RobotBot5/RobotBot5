@@ -33,6 +33,8 @@ I am currently a third-year student pursuing a degree in Software Engineering at
   VK Client is a learning project designed to explore **Jetpack Compose** and **Jetpack Navigation**. The application integrates with **VK API** to fetch and display user data, posts, and other content.
 - **[Stock Chart](https://github.com/RobotBot5/Terminal)**
   Stock Chart is a practice project focused on **Canvas in Jetpack Compose**. The app features a **custom Composable** that dynamically renders a **candlestick chart** based on fetched stock data. Users can **zoom and scroll** through the chart for better visualization.
+- **[Weather Forecast App](https://github.com/RobotBot5/WeatherApp)**
+  A weather forecast application built with **Jetpack Compose**, utilizing **MVI architecture** with [MviKotlin](https://github.com/arkivanov/MVIKotlin) and **component-based navigation** with [Decompose](https://github.com/arkivanov/Decompose).
 
 ## Contact Me
 - [Telegram @RobotBot5](https://t.me/robotbot5)
